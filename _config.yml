@@ -60,7 +60,7 @@ author:
   bio    : "A Y2 Information Systems Undergraduate @ NUS Computing. Just trying to figure things out! \n Things include: Entrepreneurship, Data Science and Case Competitions/Hackathons!"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andre-heng/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andre-heng/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
