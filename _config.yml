@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Andre Heng"
-  avatar : "/assets/images/casual-photo.jpg"
+  avatar : "/assets/images/casual-photo-square.jpeg"
   bio    : "A Y2 Information Systems Undergraduate @ NUS Computing. Just trying to figure things out! \n Things include: Entrepreneurship, Data Science and Case Competitions/Hackathons!"
   links:
     - label: "Linkedin"
