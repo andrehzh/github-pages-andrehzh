@@ -2,9 +2,11 @@
 
 Welcome to my personal website and portfolio. 🛸
 
-- 🤖🎨 **Made** with [Jekyll](https://jekyllrb.com/docs/) and based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) template.
+- 🤖 **Made** with [Jekyll](https://jekyllrb.com/docs/) and based on the [Made Mistakes](https://github.com/mmistakes/minimal-mistakes) template.
+- 🎨 **Styling** wit [CSS](https://devdocs.io/css/)
 - 💾 **Hosted** by [Github Pages](https://pages.github.com/)
 - 📝 **Writing** articles with [MD](https://www.markdownguide.org/basic-syntax/)
+
 
 ## Contents
 
