@@ -13,4 +13,4 @@ Welcome to my personal website and portfolio. 🛸
 
 ## Licence
 
-[Made for fun] © [Andre Heng 2023]
+Made for fun © Andre Heng 2023
